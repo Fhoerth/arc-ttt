@@ -1,0 +1,12 @@
+.cell {
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.board tr {
+  border-left: 1px solid #ccc;
+}
+
+.board td {
+  border: 1px 0 solid #ccc;
+}
